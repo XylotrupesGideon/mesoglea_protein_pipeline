@@ -1,5 +1,5 @@
 #biological files
-
+*.tsv
 *.fasta
 *.gb
 
