@@ -2,6 +2,12 @@
 *.tsv
 *.fasta
 *.gb
+*.nex
+*.phy
+*.svg
+*.pdf
+*.dnd
+*.xlsx
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
