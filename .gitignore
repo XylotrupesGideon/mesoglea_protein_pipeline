@@ -8,6 +8,12 @@
 *.pdf
 *.dnd
 *.xlsx
+*.txt
+*.fa
+Blast*
+*.dmnd
+*.csv
+
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
