@@ -13,6 +13,11 @@
 Blast*
 *.dmnd
 *.csv
+*.png
+*.xml
+*.ai 
+*.7z
+
 
 
 # Byte-compiled / optimized / DLL files
@@ -127,6 +132,7 @@ ENV/
 env.bak/
 venv.bak/
 .venv2/
+.mesoglea_venv/
 
 # Spyder project settings
 .spyderproject
